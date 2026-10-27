@@ -2,6 +2,10 @@
 
 Program Python yang menunjukkan **fungsi setiap tahapan** protokol Diffie-Hellman dan kriptosistem ElGamal dalam **satu studi kasus**, tanpa library atau framework jadi. Semua perhitungan kriptografi ditulis sendiri.
 
+Kelompok 1 Kriptografi
+- Raya Ahmad Syarif 5027241041
+- M Fatihul Qolbi Ash Shidqi 5027241023
+- Zein Muhammad Hasan 5027241035
 ---
 
 ## Daftar Isi
